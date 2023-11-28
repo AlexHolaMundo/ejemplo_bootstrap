@@ -1,4 +1,4 @@
-<h1>AREA DE LA CIUDAD DE </h1>
+<h1>AREA DE LA CIUDAD DE (Paris Francia)</h1>
 <div class="paris" id="paris" style="width: 100%; height:800px"> </div>
 <script>
 	function initMap() {
@@ -1532,7 +1532,6 @@
 			[48.86006787266853, 2.4142692378946333],
 			[48.86002920237019, 2.4144455728943632],
 			[48.85983585043043, 2.4144455728943632],
-
 			[],
 			[],
 			[],
